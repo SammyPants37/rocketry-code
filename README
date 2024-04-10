@@ -1,0 +1,4 @@
+Libraries needed for this:
+smbus2
+board
+adafruit_bmp3xx
